@@ -264,7 +264,7 @@ for_window [class=".*"] border pixel 0
 #==========================================
 # software you want to run everytime when reboot
 
-exec_always feh --bg-fill /home/synferlo/ubuntu_bg.png
+exec_always feh --bg-fill /home/synferlo/Pictures/ubuntu_logo_bg.png
 
 exec_always compton
 
